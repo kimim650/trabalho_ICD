@@ -1,5 +1,5 @@
 # ICD---An-lise-de-produtos
-QUESTÕES SIMPLES:
+QUESTÕES SIMPLES:                                                                                                                                                                                                                                  
 1.O CAFÉ PILÃO POSSUI MENOR MEDIDA E O SANTA CLARA E PILÃO MAIORES MEDIDAS.                                                                                                                                                                        
 2.PERCEBEMOS QUE DE DISPERSÃO DO CAFÉ PILÃO É MAIOR ENTRE OS DEMAIS POR POSSUIR VÁRIOS OUTLIER QUE DIFICULTA A VISUALIZAÇÃO CLARA DO VALOR MÉDIO DO MESMO.
 POR OUTRO LADO O CAFÉ KIMIMO POR SER UMA MARCA MENOS CONHECIDA NÃO POSSUI TANTOS OUTLIER SENDO ASSIM FÃCIL A DESCOBERTA DE SUA MÉDIA.
